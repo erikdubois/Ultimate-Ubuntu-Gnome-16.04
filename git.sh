@@ -25,11 +25,11 @@
 #
 ############################################################################
 
-#echo "# Ultimate-Ubuntu-Mate-16.04" >> README.md
+#echo "# Ultimate-Ubuntu-Gnome-16.04" >> README.md
 #git init
 #git add README.md
 #git commit -m "first commit"
-#git remote add origin https://github.com/erikdubois/Ultimate-Ubuntu-Mate-16.04.git
+#git remote add origin https://github.com/erikdubois/Ultimate-Ubuntu-Gnome-16.04.git
 #git push -u origin master
 
 # Below command will backup everything inside the project folder
