@@ -59,11 +59,12 @@ sh icons-sardi-latest.sh
 sh icons-super-ultra-flat-numix-latest.sh
 sh icons-yltra-flat-latest.sh
 sh install-all-needed-software-at-once-latest.sh
-sh install-numix-latest.sh
+#sh install-numix-latest.sh
 sh install-zsh-latest.sh
 sh hardcodefixer-latest.sh
 sh theme-arc-dark-install-latest.sh
-sh update-to-the-last-stable-4.6.3-kernel-v2.sh
+sh install-gtk-blackbird-latest.sh
+#sh update-to-the-last-stable-4.6.3-kernel-v2.sh
 
 #adwaita engine for some of the themes
 sudo apt-get install gnome-themes-standard

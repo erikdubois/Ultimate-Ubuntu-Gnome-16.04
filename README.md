@@ -4,6 +4,8 @@ We start our journey with a clean install.
 
 Do all the updates the system already asks you to do.
 
+Installed sardi icons and posting the images on imgur.
+
 ![Screenshots](http://i.imgur.com/LcqzJgB.jpg)
 
 Take a look at the various scripts and run the ones you like. Change content if need be.
@@ -25,13 +27,12 @@ using Super Ultra Flat Numix Remix icons from https://github.com/erikdubois/Supe
 
 Your result can be
 
-![Screenshots](http://i.imgur.com/aMrgOna.jpg)
+![Screenshots](http://i.imgur.com/0tyuLom.jpg)
 
 You can change your mate settings best via appearance but there is also an interesting tool you should know.
 
-	# sudo apt install mate-tweak
+	# sudo apt install gnome-tweak-tool
 
-![Screenshots](http://i.imgur.com/O5kG3J7.png)
 
 The configuration of your window manager is one of the very interesting options mate offers the user.
 
@@ -96,8 +97,6 @@ An example of the kernel with screenfetch. You can use neofetch as well.
 
 <b>Kernel 4.6 installation</b>
 
-![Screenshots](http://i.imgur.com/wlua4w6.jpg)
-
 
 
 
@@ -151,16 +150,6 @@ Start up conky-manager and choose the conky to your liking.
 
 
 
-You should arrive at something similar depending on theme and icons choices: 
-
-
-![Screenshots](http://i.imgur.com/L3yiWx3.jpg)
-
-
-![Screenshots](http://i.imgur.com/KvPEQXN.jpg)
-
-
-
 Then you take the script apart and you write your own code.
 
 This script is explained more in depth on my website.
@@ -175,9 +164,8 @@ This will my place to collect them all.
 
 https://github.com/erikdubois/Aureola
 
-![Screenshots](http://i.imgur.com/xQug51R.jpg)
+![Screenshots](http://i.imgur.com/kikz7EP.jpg)
 
-![Screenshots](http://i.imgur.com/1R0CzAQ.jpg)
 
 #5 ZSH and Oh-my-sh
 -----------------------
