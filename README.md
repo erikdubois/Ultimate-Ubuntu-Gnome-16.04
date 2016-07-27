@@ -4,7 +4,7 @@ We start our journey with a clean install.
 
 Do all the updates the system already asks you to do.
 
-![Screenshots](http://i.imgur.com/xx5yUI1.jpg)
+![Screenshots](http://i.imgur.com/LcqzJgB.jpg)
 
 Take a look at the various scripts and run the ones you like. Change content if need be.
 
