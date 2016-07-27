@@ -1,4 +1,4 @@
-# Ultimate Ubuntu Mate 16.04
+# Ultimate Ubuntu Gnome 16.04
 
 We start our journey with a clean install. 
 
