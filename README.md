@@ -225,10 +225,6 @@ https://github.com/erikdubois/themes-icons-pack.
 
 
 
-![Screenshots](http://i.imgur.com/FacEzmD.jpg)
-
-
-
 
 
 # Samba or sharing folder over the network
@@ -252,7 +248,6 @@ In the program keyboard you can add a custom shortcut to take a picture like
 printscreen or prtsc no many laptops
 This should be the code to take a picture that will be named like this : 
 
-![Screenshots](http://i.imgur.com/Oe7EHSn.png)
 
 
 	shutter -f -e -o '~/Pictures/screenshot_%d_%m_%Y_%T.jpg'
